@@ -19,6 +19,7 @@ This project implements an **object detection pipeline** using **YOLOv8**, a sta
   - mAP50 and mAP50-95 for each class
 - Example results (tables and visualizations) are provided as images in the repository.
 
-![test_image](validation_images\test_image.png)
+![test_image](test_image.png)
 ![confusion_matrix_normalized](validation_images\confusion_matrix_normalized.png)
+
 ![val_batch2_pred](validation_images/val_batch2_pred.jpg)
