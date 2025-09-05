@@ -20,6 +20,7 @@ This project implements an **object detection pipeline** using **YOLOv8**, a sta
 - Example results (tables and visualizations) are provided as images in the repository.
 
 ![test_image](test_image.png)
-![confusion_matrix_normalized](validation_images\confusion_matrix_normalized.png)
+![confusion_matrix_normalized](confusion_matrix_normalized.png)
 
 ![val_batch2_pred](validation_images/val_batch2_pred.jpg)
+
